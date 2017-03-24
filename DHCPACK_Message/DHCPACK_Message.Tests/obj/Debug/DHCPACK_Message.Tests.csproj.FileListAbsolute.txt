@@ -1,0 +1,8 @@
+C:\Users\QGB683\Documents\Visual Studio 2015\Projects\DHCPACK_Message\DHCPACK_Message.Tests\obj\Debug\DHCPACK_Message.Tests.csprojResolveAssemblyReference.cache
+C:\Users\QGB683\Documents\Visual Studio 2015\Projects\DHCPACK_Message\DHCPACK_Message.Tests\bin\Debug\DHCPACK_Message.Tests.dll
+C:\Users\QGB683\Documents\Visual Studio 2015\Projects\DHCPACK_Message\DHCPACK_Message.Tests\bin\Debug\DHCPACK_Message.Tests.pdb
+C:\Users\QGB683\Documents\Visual Studio 2015\Projects\DHCPACK_Message\DHCPACK_Message.Tests\bin\Debug\DHCPACK_Message.exe
+C:\Users\QGB683\Documents\Visual Studio 2015\Projects\DHCPACK_Message\DHCPACK_Message.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\QGB683\Documents\Visual Studio 2015\Projects\DHCPACK_Message\DHCPACK_Message.Tests\bin\Debug\DHCPACK_Message.pdb
+C:\Users\QGB683\Documents\Visual Studio 2015\Projects\DHCPACK_Message\DHCPACK_Message.Tests\obj\Debug\DHCPACK_Message.Tests.dll
+C:\Users\QGB683\Documents\Visual Studio 2015\Projects\DHCPACK_Message\DHCPACK_Message.Tests\obj\Debug\DHCPACK_Message.Tests.pdb
